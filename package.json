@@ -61,7 +61,7 @@
     "@typescript-eslint/parser": "5.62.0",
     "bumpp": "9.11.1",
     "cross-env": "7.0.3",
-    "eslint": "8.57.1",
+    "eslint": "10.14.0",
     "eslint-config-prettier": "8.10.2",
     "eslint-plugin-prettier": "5.5.4",
     "gacp": "3.0.3",
